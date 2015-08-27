@@ -1,0 +1,6 @@
+#ifndef SERVERCONFIG_H
+#define SERVERCONFIG_H
+
+
+
+#endif // SERVERCONFIG_H
